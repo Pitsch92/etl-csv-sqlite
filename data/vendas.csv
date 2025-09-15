@@ -1,0 +1,21 @@
+id,data,pais,estado,cidade,cliente_id,produto,categoria,quantidade,preco_unitario,desconto,pagamento
+1,2025-01-01,Brasil,SP,São Paulo,1001,Arroz,Alimentos,2,20.50,0,Cartão
+2,2025-01-01,Brasil,RJ,Rio de Janeiro,1002,Feijão,Alimentos,1,10.00,0,Dinheiro
+3,2025-01-02,Brasil,MG,Belo Horizonte,1003,Macarrão,Alimentos,3,8.50,5,Cartão
+4,2025-01-02,Brasil,SP,Campinas,1004,Azeite,Bebidas,1,25.00,0,Pix
+5,2025-01-03,Brasil,RS,Porto Alegre,1005,Vinho,Bebidas,2,55.00,10,Cartão
+6,2025-01-04,Brasil,BA,Salvador,1006,Camiseta,Vestuário,1,39.90,0,Boleto
+7,2025-01-05,Argentina,--,Buenos Aires,1007,Arroz,Alimentos,4,22.00,0,Cartão
+8,2025-01-05,Brasil,SP,São Paulo,1008,Calça,Vestuário,2,120.00,15,Cartão
+9,2025-01-06,Brasil,RJ,Niterói,1009,Notebook,Eletrônicos,1,3500.00,200,Cartão
+10,2025-01-06,Brasil,PR,Curitiba,1010,Smartphone,Eletrônicos,2,2200.00,150,Pix
+11,2025-01-07,Brasil,SP,Santos,1011,Arroz,Alimentos,5,20.00,0,Cartão
+12,2025-01-07,Brasil,RJ,Rio de Janeiro,1012,Feijão,Alimentos,3,9.90,0,Boleto
+13,2025-01-08,Brasil,SC,Florianópolis,1013,Camiseta,Vestuário,2,45.00,5,Cartão
+14,2025-01-08,Chile,--,Santiago,1014,Vinho,Bebidas,3,60.00,20,Cartão
+15,2025-01-09,Brasil,SP,São Paulo,1015,Notebook,Eletrônicos,1,3400.00,100,Pix
+16,2025-01-09,Brasil,MG,Uberlândia,1016,Smartphone,Eletrônicos,1,2150.00,0,Cartão
+17,2025-01-10,Brasil,SP,Campinas,1017,Calça,Vestuário,3,110.00,10,Boleto
+18,2025-01-10,Brasil,BA,Salvador,1018,Arroz,Alimentos,10,21.00,0,Cartão
+19,2025-01-11,Brasil,RS,Caxias do Sul,1019,Feijão,Alimentos,6,10.50,5,Cartão
+20,2025-01-11,Brasil,PR,Londrina,1020,Vinho,Bebidas,1,58.00,0,Pix
