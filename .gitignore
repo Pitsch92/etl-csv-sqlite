@@ -1,0 +1,16 @@
+# Ignorar caches do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambiente virtual
+.venv/
+env/
+venv/
+
+# Banco de dados local
+data/database/*.db
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
