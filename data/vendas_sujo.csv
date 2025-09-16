@@ -1,0 +1,16 @@
+id,data,pais,estado,cidade,cliente_id,produto,categoria,quantidade,preco_unitario,desconto,valor_bruto,valor_liquido,pagamento
+1,2025-01-10,Brasil,SP,São Paulo,101,Camiseta,Vestuário,2,50.00,0,100.00,100.00,CARTÃO
+2,2025/01/11,Argentina,,Buenos Aires,102,"Tênis",Vestuario,1,200,10,200,180,DINHEIRO
+3,10-01-2025,Chile,RN,Ñuñoa,ABC,Calça Jeans,VESTUÃ¡RIO,3,100.5,,301.5,301.5,CARTÃO
+4,2025-01-12,Brasil,MG,Belo Horizonte,104,Sapato,Vestuário,DOIS,150.75,5,301.5,286.42,PIX
+5,2025-01-13,,RJ,Rio de Janeiro,105,Bolsa,,1,250.0,,250,250,CARTAO
+6,2025-13-01,Brasil,RS,Porto Alegre,106,"",Vestuário,2,abc,0,,,"DINHEIRO"
+7,2025-01-15,Brasil,SC,Florianópolis,107,Boné,Acessórios,1,75.00,--,75.00,75.00,cartão
+8,2025-01-16,Peru,Lima,Lima,108,"Óculos de Sol",Acessórios,2,120.5,abc,241,241,CREDITO
+9,2025-01-17,Brasil,SP,São Paulo,109,"Camisa Polo","Vestuário",1,89.90,0,89.90,89.90,PIX
+10,2025-01-18,México,,Cidade do México,,Carteira,Acessórios,1,99.99,0,99.99,99.99,CARTÃO
+11,2025-01-19,Brasil,PR,Curitiba,111,Cinto,Acessórios,1,79.90,5,79.9,75.9,DEBITO
+12,2025-01-20,Chile,Valparaiso,Valparaiso,112,Relógio,Luxo,1,500.00,50,500,450,DINHEIRO
+13,2025-01-21,Brasil,BA,Salvador,113,Camisa,,1,59.90,,59.9,59.9,
+14,2025-01-22,Brasil,SP,,114,Jaqueta,Vestuário,1,350.00,20,350,280,PIX
+15,2025-01-23,Bolívia,,La Paz,115,Mochila,Acessórios,1,,10,,,,DINHEIRO
